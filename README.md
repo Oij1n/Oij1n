@@ -1,16 +1,32 @@
-## Hi there 👋
+# Eugene Chow
 
-<!--
-**Oij1n/Oij1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Entrepreneur · Builder · Systems Thinker**
 
-Here are some ideas to get you started:
+I work at the intersection of technology, business, and design, with an interest in building practical systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Building
+
+**[ARKON](https://arkon.live)** — A construction technology platform focused on simplifying project management, financial workflows, and collaboration between contractors and homeowners.
+
+My work spans product strategy, software architecture, user experience, and business development.
+
+### Areas of Interest
+
+- **Software & AI** — Applied artificial intelligence, automation, and system architecture
+- **Business & Economics** — Entrepreneurship, financial systems, and market dynamics
+- **Product Design** — Minimalist interfaces and intuitive user experiences
+- **Philosophy & History** — Political philosophy, linguistics, and historical systems
+
+### Background
+
+Previously worked in consumer data analytics at **Nielsen** and wholesale banking operations at **China CITIC Bank**.
+
+Interested in the relationship between technology, economic structures, and how people interact with complex systems.
+
+### Current Focus
+
+Building **ARKON**, exploring applied AI, and turning ideas into functional products.
+
+---
+
+**Website:** [arkon.live](https://arkon.live)
